@@ -1,5 +1,5 @@
 
-### About App
+# About App
 
 This is basic TODO App to maintain all your daily tasks.
 ##### Features #####
