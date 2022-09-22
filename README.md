@@ -3,9 +3,9 @@
 
 This is basic TODO App to maintain all your daily tasks.
 ##### Features #####
-==== You can add/edit your tasks
-==== Your can check once you done with your task
-==== you can remove your tasks after completion.
+- You can add/edit your tasks
+- Your can check once you done with your task
+- you can remove your tasks after completion.
 
 ### Languages i have used in this project
 
