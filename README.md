@@ -9,8 +9,8 @@ This is basic TODO App to maintain all your daily tasks.
 
 ### Languages i have used in this project
 
-> react (Frontend)
-> firebase (Database)
+- react (Frontend)
+- firebase (Database)
 
 
 ### Configurations
